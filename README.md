@@ -1,4 +1,8 @@
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+
 # 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
 - [리눅스 정리](https://velog.io/@sengjun0624/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%A0%95%EB%A6%AC)
