@@ -6,32 +6,34 @@
 ### 🏛 인하대학교 (컴퓨터공학과)
 📅 2019.03.04 ~ 2025.02.14  
 
----
+<br><br><br><br>
 
 ## 🔥 Activities
 
 ### 🎯 **컴퓨터공학과 학생회장**
 📅 2023.03.29 ~ 2024.02.17  
 
----
+<br><br>
 
 ### 🛠 **UMC 5기 서버 파트원**
 📅 2023.08.21 ~ 2024.02.21
 
----
+<br><br>
 
 ### 💼 **현장실습 (새솔소프트)**
 
 📅 2023.12.18 ~ 2024.06.21  
 
----
+<br><br><br><br>
 
 ## 🏆 Certifications
 
 
 - **SQLD**
 - **OPIC IM1**
----
+
+
+<br><br><br><br>
 
 ## 📂 Tech Stack
 
@@ -44,11 +46,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
----
+<br><br><br><br>
 
 ## 📖 Blog & More
 
 ✍️ **벨로그**: [My Dev Blog](https://velog.io/@sengjun0624/posts)  
+<br><br><br><br>
+
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
 - [[우리 FISA] 클라우드 서비스 개발 - 6주차 회고](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-jt7hacmj)
@@ -58,7 +62,7 @@
 - [[기술세미나] babel](https://velog.io/@sengjun0624/%EA%B8%B0%EC%88%A0%EC%84%B8%EB%AF%B8%EB%82%98-babel)
 <!-- BLOG-POST-LIST:END -->
 📧 **Contact**: sengjun0624@gmail.com 
-
+<br><br><br><br><br><br><br><br>
 
  ![](./profile-3d-contrib/profile-green-animate.svg)
 
