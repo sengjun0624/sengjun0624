@@ -29,8 +29,8 @@
 ## 🏆 Certifications
 
 
-**SQLD**
-**OPIC IM1**
+- **SQLD**
+- **OPIC IM1**
 ---
 
 ## 📂 Tech Stack
