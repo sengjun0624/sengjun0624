@@ -55,11 +55,11 @@
 
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
+- [[우리 FISA] 클라우드 서비스 개발 - 14주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-14%EC%A3%BC%EC%B0%A8)
+- [[Spring] Netty](https://velog.io/@sengjun0624/Spring-Netty)
 - [[우리 FISA] 클라우드 서비스 개발 - 13주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-13%EC%A3%BC%EC%B0%A8)
 - [[우리 FISA] 클라우드 서비스 개발 - 12주차 회고 &lpar;feat. 면접 후기&rpar;](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-12%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-feat.-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [[우리 FISA] 클라우드 서비스 개발 - 10주차 회고](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-10%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
-- [[우리 FISA] 클라우드 서비스 개발 - 9주차 회고](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-hos6wm4q)
-- [[Spring] MVC](https://velog.io/@sengjun0624/Spring-MVC)
 <!-- BLOG-POST-LIST:END -->
 📧 **Contact**: sengjun0624@gmail.com 
 <br><br><br><br><br><br><br><br>
