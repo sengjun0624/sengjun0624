@@ -60,11 +60,11 @@
 
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
+- [[우리 FISA] 클라우드 서비스 개발 - 최종 회고](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0)
 - [[우리 FISA] 클라우드 서비스 개발 - 21주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-21%EC%A3%BC%EC%B0%A8)
 - [[우리 FISA] 클라우드 서비스 개발 - 19주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-19%EC%A3%BC%EC%B0%A8)
 - [[우리 FISA] 클라우드 서비스 개발 - 18주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-18%EC%A3%BC%EC%B0%A8)
 - [[연합동아리 DDD 12기] 서버 합격 회고](https://velog.io/@sengjun0624/%EC%97%B0%ED%95%A9%EB%8F%99%EC%95%84%EB%A6%AC-DDD-12%EA%B8%B0-%EC%84%9C%EB%B2%84-%ED%95%A9%EA%B2%A9-%ED%9A%8C%EA%B3%A0)
-- [[우리 FISA] 클라우드 서비스 개발 - 17주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-17%EC%A3%BC%EC%B0%A8)
 <!-- BLOG-POST-LIST:END -->
 📧 **Contact**: sengjun0624@gmail.com 
 <br><br><br><br><br><br><br><br>
