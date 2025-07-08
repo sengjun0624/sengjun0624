@@ -23,12 +23,13 @@
 ###  **현장실습 (새솔소프트)**
 
 📅 2023.12.18 ~ 2024.06.21  
+<br><br>
 
 ###  **DDD 12기 Server**
 
 📅 2025.05.10 ~ 
 
-<br><br><br><br>
+<br><br>
 
 
 ## 🏆 Certifications
@@ -36,7 +37,7 @@
 
 - **SQLD**
 - **OPIC IM1**
-
+- **정보처리기사**
 
 <br><br><br><br>
 
@@ -66,9 +67,8 @@
 - [[우리 FISA] 클라우드 서비스 개발 - 19주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-19%EC%A3%BC%EC%B0%A8)
 - [[우리 FISA] 클라우드 서비스 개발 - 18주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-18%EC%A3%BC%EC%B0%A8)
 <!-- BLOG-POST-LIST:END -->
-📧 **Contact**: sengjun0624@gmail.com 
+📧 **Contact**: sengjun0624@naver.com 
 <br><br><br><br><br><br><br><br>
 
- ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
