@@ -61,11 +61,11 @@
 
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
-- [[ KB 펀드 파트너스 ]  신입 채용 최종 합격 후기](https://velog.io/@sengjun0624/KB-%ED%8E%80%EB%93%9C-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4-%EC%8B%A0%EC%9E%85-%EC%B1%84%EC%9A%A9-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
 - [[우리 FISA] 클라우드 서비스 개발 - 최종 회고](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0)
 - [[우리 FISA] 클라우드 서비스 개발 - 21주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-21%EC%A3%BC%EC%B0%A8)
 - [[우리 FISA] 클라우드 서비스 개발 - 19주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-19%EC%A3%BC%EC%B0%A8)
 - [[우리 FISA] 클라우드 서비스 개발 - 18주차](https://velog.io/@sengjun0624/%EC%9A%B0%EB%A6%AC-FISA-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-18%EC%A3%BC%EC%B0%A8)
+- [[연합동아리 DDD 12기] 서버 합격 회고](https://velog.io/@sengjun0624/%EC%97%B0%ED%95%A9%EB%8F%99%EC%95%84%EB%A6%AC-DDD-12%EA%B8%B0-%EC%84%9C%EB%B2%84-%ED%95%A9%EA%B2%A9-%ED%9A%8C%EA%B3%A0)
 <!-- BLOG-POST-LIST:END -->
 📧 **Contact**: sengjun0624@naver.com 
 <br><br><br><br><br><br><br><br>
